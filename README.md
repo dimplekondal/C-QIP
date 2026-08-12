@@ -8,3 +8,5 @@ The stata codes contain all the information on
 5. Calculation of scores
 6. Sub-group analysis
 7. IPTW analysis
+
+[![DOI](https://zenodo.org/badge/1329695600.svg)](https://doi.org/10.5281/zenodo.21899783)
